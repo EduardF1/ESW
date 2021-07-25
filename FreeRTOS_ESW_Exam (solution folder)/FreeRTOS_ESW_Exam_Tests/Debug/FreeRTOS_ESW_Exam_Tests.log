@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\ESW_Exam\FreeRTOS_ESW_Exam\FreeRTOS_ESW_Exam_Tests\test.cpp(47,2): warning C4002: too many arguments for function-like macro invocation 'ASSERT_TRUE'
+D:\ESW_Exam\FreeRTOS_ESW_Exam\FreeRTOS_ESW_Exam_Tests\test.cpp(60,2): warning C4002: too many arguments for function-like macro invocation 'ASSERT_TRUE'
+D:\ESW_Exam\FreeRTOS_ESW_Exam\FreeRTOS_ESW_Exam_Tests\test.cpp(61,2): warning C4002: too many arguments for function-like macro invocation 'ASSERT_TRUE'
+  FreeRTOS_ESW_Exam_Tests.vcxproj -> D:\ESW_Exam\FreeRTOS_ESW_Exam\Debug\FreeRTOS_ESW_Exam_Tests.exe
